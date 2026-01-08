@@ -16,7 +16,7 @@
 
 <br>
 
-<h2 align="center"> 👁️‍🗨️ About me 👁️‍🗨️ </h2>
+<h2 align="center"> 👁️ About me 👁️ </h2>
 
 ```zsh
 samuel@eva01: ~/my_readme (main⚡)$ fastfetch
@@ -45,30 +45,30 @@ Hobbies: Programming, Watching anime, Playing videogames, Reading manga, Listeni
     <br>
     <br>
     <br>
-    <table align="right">
+    <table align="right" style="border: none; border-collapse: collapse;">
         <tr>
-            <td style="vertical-align: middle;">
+            <td style="vertical-align: middle; border: none; padding: 0;">
                 <b> You are (not) alone</b><br>
                 <i style="font-size: 0.9em;">— Shinji Ikari</i><br>
                 <small>"I mustn't run away..."</small>
             </td>
-            <td>
+            <td style="border: none; padding: 0;">
                 <a href = "img/Evangelion/eva01.png">
-                    <img src = "img/Evangelion/eva01.png" width = "170">
+                    <img src = "img/Evangelion/eva01.png" width = "170" style="border: none;">
                 </a>
             </td>
         </tr>
     </table>
     <br>
     <br>
-    <table align="left">
+    <table align="left" style="border: none; border-collapse: collapse;">
         <tr>
-            <td>
+            <td style="border: none; padding: 0;">
                 <a href = "img/Evangelion/eva02.png">
-                    <img src = "img/Evangelion/eva02.png" width = "170">
+                    <img src = "img/Evangelion/eva02.png" width = "170" style="border: none;">
                 </a>
             </td>
-            <td style="vertical-align: middle;">
+            <td style="vertical-align: middle; border: none; padding: 0;">
                 <b> You can (not) advance</b><br>
                 <i style="font-size: 0.9em;">— Asuka Langley Soryu</i><br>
                 <small>"Anta baka? I'm the best!"</small>
@@ -77,16 +77,16 @@ Hobbies: Programming, Watching anime, Playing videogames, Reading manga, Listeni
     </table>
     <br>
     <br>
-    <table align="right">
+    <table align="right" style="border: none; border-collapse: collapse;">
         <tr>
-            <td style="vertical-align: middle;">
+            <td style="vertical-align: middle; border: none; padding: 0;">
                 <b> You can (not) redo</b><br>
                 <i style="font-size: 0.9em;">— Rei Ayanami</i><br>
                 <small>"I am me. I am here."</small>
             </td>
-            <td>
+            <td style="border: none; padding: 0;">
                 <a href = "img/Evangelion/eva00.png">
-                    <img  src ="img/Evangelion/eva00.png" width="170">
+                    <img  src ="img/Evangelion/eva00.png" width="170" style="border: none;">
                 </a>
             </td>
         </tr>
@@ -129,7 +129,7 @@ Hobbies: Programming, Watching anime, Playing videogames, Reading manga, Listeni
     <h2 align="center"> 💻 I've Worked With  </h2>
     <p align = "center">
          <a href="https://skillicons.dev">
-            <img style="margin: 10px"src="https://skillicons.dev/icons?i=python,azure,gitlab,grafana,mysql,ubuntu,vscode,windows,prometheus&perline="alt="My Skills"> 
+            <img style="margin: 10px"src="https://skillicons.dev/icons?i=python,azure,gitlab,grafana,mysql,ubuntu,vscode,windows,prometheus&perline=3"alt="My Skills"> 
         </a>
     </p>
     <h2 align="center"> 🛠️ I'm still learning or working on  </h2>
@@ -166,10 +166,7 @@ Hobbies: Programming, Watching anime, Playing videogames, Reading manga, Listeni
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-    <a >
-    </a>
-    </a>
-    <a href="https://www.linkedin.com/in/samuel-nuez-5a03771a8/ target="_blank">
+    <a href="https://www.linkedin.com/in/samuel-nuez-5a03771a8/" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
     </a>
     <br>
