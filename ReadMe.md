@@ -145,23 +145,6 @@ Hobbies: Programming, Watching anime, Playing videogames, Reading manga, Listeni
 
 
 
-<h2 align = "center"> 📉 GitHub Stats</h2>
-<div> 
-    <p align = "center">
-<!--         <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=DrTableBasse&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
-        </a> -->
-      <!--change language to japanese locale=jp-->
-<!--         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=DrTableBasse&theme=radical&row=4&column=4">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrTableBasse&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%">
-        </a> -->
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrTableBasse&theme=2077">
-    </p>
-</div>
-<br>
-<br>
 
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
